@@ -9,6 +9,7 @@
 #include <ps4-offsets/kernel.h>
 
 #if defined(__11_00__)
+#define kern_off_pstate_before_shutdown 0x2719D0
 asm("ps4kexec:\n.incbin \"ps4-kexec/kexec.bin\"\nps4kexec_end:\n");
 #include "ps4-kexec/magic.h"
 #else
