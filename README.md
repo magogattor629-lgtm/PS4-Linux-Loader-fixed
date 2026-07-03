@@ -6,21 +6,20 @@ build
 is simple 
 requirements:
 
-'''
-linux
+- linux
 
-make
-'''
+- make
+
 
 
 for build this 
 
-'''
-git clone https://github.com/magogattor629-lgtm/PS4-Linux-Loader-fixed/
 
-cd ~/ps4-linux-loader-fixed/
+- git clone https://github.com/magogattor629-lgtm/PS4-Linux-Loader-fixed/
 
-make
-'''
+- cd ~/ps4-linux-loader-fixed/
+
+- make
+
 
 you payload they are ~/ps4-linux-loader-fixed/
