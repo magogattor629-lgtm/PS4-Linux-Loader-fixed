@@ -5,7 +5,9 @@ Credits go to sleirsgolvy, the Psxita Team, TheFl0w for the exploit and the whol
 build
 is simple 
 requirements:
+
 linux
+
 make
 
 
@@ -13,7 +15,9 @@ make
 for build this 
 
 git clone https://github.com/magogattor629-lgtm/PS4-Linux-Loader-fixed/
+
 cd ~/ps4-linux-loader-fixed/
+
 make
 
 you payload they are ~/ps4-linux-loader-fixed/
