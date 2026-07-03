@@ -12,7 +12,7 @@ requirements:
 
 
 
-for build this 
+for build this :
 
 
 - git clone https://github.com/magogattor629-lgtm/PS4-Linux-Loader-fixed/
